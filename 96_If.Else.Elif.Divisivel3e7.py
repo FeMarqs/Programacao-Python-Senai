@@ -1,3 +1,5 @@
+#Entrar com um número e informar se ele é divisível por 3 e por 7.
+
 from os import system 
 system('cls')
 """ import math
